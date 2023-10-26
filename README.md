@@ -1,2 +1,3 @@
 # blahblah
 user
+git init
